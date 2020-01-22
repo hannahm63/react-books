@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 
-class Saved extends Component {
+class DNE extends Component {
 state={};
 
 render() {
     return (
-        <div>Hello from Saved</div>
+        <div>Hello from DNE</div>
     );
 };
 }
 
-export default Saved;
+export default DNE;
